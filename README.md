@@ -61,12 +61,6 @@ I also share my projects and knowledge on **GitHub** and **LinkedIn** to grow my
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto25-creator&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Philosophy
-
-> _"Technology is not just about coding.  
-> It's about creating solutions that transform data into knowledge and real-world impact."_  
 
 ---
 
