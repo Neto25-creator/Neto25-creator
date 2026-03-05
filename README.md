@@ -29,7 +29,7 @@
 
 Building robust systems and crafting elegant solutions.
 
-**Currently at** Rumo Tech — Brazil
+**Currently at** Brazil 🇧🇷
 </details>
 
 <br/>
