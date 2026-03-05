@@ -27,9 +27,8 @@
 
 <br/>
 
-Building robust systems and crafting elegant solutions.
 
-**Currently at** Brazil 🇧🇷
+**Currently at** Nutriz Alimentos.
 </details>
 
 <br/>
