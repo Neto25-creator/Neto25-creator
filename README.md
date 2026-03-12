@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:muliternojr21@gmail.com">Enviar e-mail
+  <a href="mailto:muliternojr21@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/enio-muliterno-neto/">
